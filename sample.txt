@@ -3,3 +3,7 @@ Roll No: 23-st-041
 
 // Addition
 cout << "The sum of two numbers is: " << a+b << endl;
+
+//Subtraction
+cout << "The subtraction of two numbers is: " << a-b << endl;
+
