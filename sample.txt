@@ -3,3 +3,12 @@ Roll No: 23-st-041
 
 // Addition
 cout << "The sum of two numbers is: " << a+b << endl;
+
+//Subtraction
+cout << "The subtraction of two numbers is: " << a-b << endl;
+
+//Multiplication
+cout << "The product of two numbers is: " << a*b << endl;
+
+//Division
+cout << "The division of two numbers is: " << a/b << endl;
