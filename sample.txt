@@ -1,2 +1,5 @@
 Name: Muhammad Zaid Riaz 
 Roll No: 23-st-041 
+
+// Addition
+cout << "The sum of two numbers is: " << a+b << endl;
