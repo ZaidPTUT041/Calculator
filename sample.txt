@@ -10,4 +10,5 @@ cout << "The subtraction of two numbers is: " << a-b << endl;
 //Multiplication
 cout << "The product of two numbers is: " << a*b << endl;
 
-
+//Division
+cout << "The division of two numbers is: " << a/b << endl;
